@@ -4,3 +4,6 @@
 [submodule "charts"]
 	path = charts
 	url = https://github.com/concourse/concourse-chart.git
+[submodule "chart"]
+	path = chart
+	url = https://github.com/concourse/concourse-chart.git
