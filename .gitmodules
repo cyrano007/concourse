@@ -1,3 +1,6 @@
 [submodule "helm"]
 	path = helm
 	url = https://github.com/concourse/concourse-chart.git
+[submodule "charts"]
+	path = charts
+	url = https://github.com/concourse/concourse-chart.git
